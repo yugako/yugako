@@ -2,7 +2,7 @@
 #### Passionate Frontend & WordPress developer
 Hello! I’m George Hasiuk a self-taught & hard-working Frontend & WordPress Developer with over 2 years of work experience. Can code everything from a small website to a large scalable WEB application. 
 
-Skills: VUE JS / REACT / JS / WORDPRESS  HTML / CSS
+Skills: VUE JS / REACT / JS / WORDPRESS / HTML / CSS
 
 - 🔭 I’m currently working on personal expenses tracking app 
 - 🌱 I’m currently learning MERN stack 
