@@ -1,16 +1,10 @@
-### Hi there 👋, my name is Yurii
-#### I am Frontend Developer
-I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.
+## Hey 👋, This is George Hasiuk
+[![Gmail Badge](https://img.shields.io/badge/-hasiuk.george@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hasiuk.george@gmail.com)](mailto:hasiuk.george@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-yuriihasiuk-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuriihasiuk/)](https://www.linkedin.com/in/yuriihasiuk/) [![Github Badge](https://img.shields.io/badge/-yugako-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yugako/)](https://www.github.com/yugako/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=hasiuk.netlify.com/)](hasiuk.netlify.com/) <p align='left'>Hi there, I'm a passionate Frontend and WordPress Developer.</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=yugako alt=yugako /> </p>
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+[![Github stats](https://github-readme-stats.vercel.app/api?username=yugako&show_icons=true&include_all_commits=true)](https://github.com/yugako/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugako&layout=compact)](https://github.com/yugako/github-readme-stats)
 
-- 🔭 I’m currently working on something cool 
-- 🌱 I’m currently learning React.js 
-- 📫 How to reach me: yurkoga25@gmail.com 
-- ⚡ Fun fact: Had learnt High Vallyrian language 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yugako)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yurii-hasiuk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](hasiuk.netlify.com)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
