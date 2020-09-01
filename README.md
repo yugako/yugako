@@ -1,10 +1,19 @@
-## Hey 👋, This is George Hasiuk
-[![Gmail Badge](https://img.shields.io/badge/-hasiuk.george@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hasiuk.george@gmail.com)](mailto:hasiuk.george@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-yuriihasiuk-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuriihasiuk/)](https://www.linkedin.com/in/yuriihasiuk/) [![Github Badge](https://img.shields.io/badge/-yugako-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yugako/)](https://www.github.com/yugako/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=hasiuk.netlify.com/)](hasiuk.netlify.com/) <p align='left'>Hi there, I'm a passionate Frontend and WordPress Developer.</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=yugako alt=yugako /> </p>
+### Hi there 👋, I am George
+#### Passionate Frontend & WordPress developer
+Hello! I’m George Hasiuk a self-taught & hard-working Frontend & WordPress Developer with over 2 years of work experience. Can code everything from a small website to a large scalable WEB application. 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=yugako&show_icons=true&include_all_commits=true)](https://github.com/yugako/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugako&layout=compact)](https://github.com/yugako/github-readme-stats)
+Skills: VUE JS / REACT / JS / WORDPRESS  HTML / CSS
+
+- 🔭 I’m currently working on personal expenses tracking app 
+- 🌱 I’m currently learning MERN stack 
+- 📫 How to reach me: hasiuk.george@gmail.com 
+- ⚡ Fun fact: studied the Рigh Valyrian language 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='32'>](https://github.com/yugako)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>](https://www.linkedin.com/in/yurii-koltso/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='32'>](https://www.instagram.com/yurko_hasiuk/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='32' height='32'></a> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yugako&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/yugako)  
