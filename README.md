@@ -8,6 +8,3 @@ Skills: REACT / REACT NATIVE / Angular / JS / HTML / CSS
 - 🌱 I’m currently learning React Native 
 - 📫 How to reach me: hasiuk.george@gmail.com 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='32'>](https://github.com/yugako)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>](https://www.linkedin.com/in/yurii-hasiuk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='32'>](https://www.instagram.com/yurko_hasiuk/)   
-
